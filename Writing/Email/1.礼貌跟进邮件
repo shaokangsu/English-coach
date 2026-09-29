@@ -1,1 +1,24 @@
+场景：
+你两周前给一位教授发过邮件，询问项目会议时间。他一直没回。现在你要发一封礼貌的跟进邮件。
 
+第一次写：
+Dear Professor Klimas,
+I hope this email finds you well.
+I send you an email two weeks ago. But I didn’t get feedback. So, I just kindly ask you again about our meeting time.
+Thanks a lot.
+Your sincerely,
+Shaokang Su
+
+AI修改：
+Subject: Follow-up: Meeting Request for Power Engineering Project
+Dear Professor Klimas,
+I hope this email finds you well.
+I am writing to follow up on my previous email sent two weeks ago regarding our project meeting. I understand you may be very busy. Could you please let me know the exact time of our meeting?
+Thank you for your time and help. I look forward to your reply.
+Yours sincerely,
+Shaokang Su
+
+学到：
+1.英语里，当定语从句的主语和先行词（被修饰词）是被动关系时（邮件是被发送的），就可以把 which was 省略，只留过去分词 sent，直接放在名词后面，让句子更简洁。这是学术和职场写作里的高频高级用法。
+完整版：The project which was completed last week was successful.
+省略版：The project completed last week was successful.
